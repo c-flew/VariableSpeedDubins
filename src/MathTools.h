@@ -11,6 +11,7 @@
 #include<math.h>
 #include<iomanip>      // std::setprecision
 #include<sstream>
+#include <limits>
 
 namespace MathTools {
 
